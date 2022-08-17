@@ -6,7 +6,7 @@ This projects seeks to conduct exploratory data analysis (EDA) on diabetes diagn
 
 ## Description
 
-
+Preliminary data exploration and cleaning has been completed. 
 
 ## Features 
 
